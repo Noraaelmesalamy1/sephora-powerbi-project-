@@ -76,7 +76,7 @@ This project was created as part of my **Data Analytics portfolio** to demonstra
   
 ---
 ## 🚀 How to Use
-1. Download the file: `Sephora_Analysis.pbix`  
+1. Download the file: [`Sephora_Analysis.pbix`  ](https://drive.google.com/file/d/1gHHSSbSVPFA7epaddhHn-cwTHEZHGcUe/view?usp=sharing)
 2. Open with **Power BI Desktop**  
 3. Explore interactive dashboards  
 ---
